@@ -1,7 +1,8 @@
 {
-  "name": "aprender-node",
+  "name": "flap-task-flow",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Agile workflow and Kanban task management application built with React, Vite, and Tailwind CSS.",
   "type": "module",
   "scripts": {
     "dev": "vite",
